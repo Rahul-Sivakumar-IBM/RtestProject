@@ -1,14 +1,14 @@
+version: "1.0"
 info:
   model: int-scaffold
 packages:
-- gitBranch: main
+- name: RtestProject
   gitServerName: rahulsiv
   gitUrl: https://github.com/Rahul-Sivakumar-IBM
   gitUsername: Rahul-Sivakumar-IBM
-  name: RtestProject
-- gitServerName: rahulsiv
-  gitTag: v1.1
+  gitBranch: main
+- name: JcPublicTools
+  gitServerName: rahulsiv
   gitUrl: https://github.com/johnpcarter
   gitUsername: Rahul-Sivakumar-IBM
-  name: JcPublicTools
-version: '1.0'
+  gitTag: v1.1
