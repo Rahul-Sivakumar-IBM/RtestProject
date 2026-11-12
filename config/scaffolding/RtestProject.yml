@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/Rahul-Sivakumar-IBM
   gitUsername: Rahul-Sivakumar-IBM
   gitBranch: main
+- name: JcPublicTools
+  gitServerName: rahulsiv
+  gitUrl: https://github.com/johnpcarter
+  gitUsername: Rahul-Sivakumar-IBM
+  gitTag: v1.1
